@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Aaron J. Steers - aka AJ Steers. 
+I'm Aaron J. Steers, aka "AJ Steers"
 
 Thanks for visiting my profile. ♥
 
@@ -28,10 +28,15 @@ I can use help with...
 
 You can try carrier pidgeon 🕊 or email: `aj- dot - steers@slalom.com`
 
-<!--
-## PRs I've Gotten Merged Recently
+## PRs I've Worked On Recently
 
--->
+<details><summary><b>Show me</b></summary>
+
+- https://github.com/hashicorp/vscode-terraform/pull/430
+- https://github.com/cloudposse/terraform-aws-key-pair/issues/41
+- https://github.com/mingrammer/diagrams/pull/38
+
+</details>
 
 ## ⭐ A Few of My Favorite Repos From the Community
 
