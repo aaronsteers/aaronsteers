@@ -28,7 +28,7 @@ I can use help with...
 
 You can try carrier pidgeon 🕊 or email: `aj- dot - steers@slalom.com`
 
-## PRs I've Worked On Recently
+## 👨‍💻 PRs I've Worked On Recently
 
 <details><summary><b>Show me</b></summary>
 
