@@ -29,6 +29,15 @@ I can use help with...
 You can try carrier pidgeon 🕊 or email: `aj- dot - steers@slalom.com`
 
 <!--
+## PRs I've Gotten Merged Recently
+
+-->
+
+## ⭐ A Few of My Favorite Repos From the Community
+
+- [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of repos with fantastic README docs.
+
+<!--
 -  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
