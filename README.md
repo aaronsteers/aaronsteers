@@ -20,11 +20,11 @@ I can use help with...
 - Expanding and ruggedizing the [Slalom Infrastructure Catalog](http://infra.dataops.tk) in Terraform.
 - Looking for more votes on my PR to add the [raise() error handling function](https://github.com/hashicorp/terraform/issues/24269) to the Terraform platform.
 
-## Prounouns 😄
+## 😄 Prounouns
 
 `Him` & `His`
 
-## How to Reach Me 📫
+## 📫 How to Reach Me
 
 You can try carrier pidgeon 🕊 or email: `aj- dot - steers@slalom.com`
 
