@@ -52,3 +52,10 @@ You can try carrier pidgeon 🕊 or email: `aj- dot - steers@slalom.com`
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Personal GitHub Stats
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronsteers&hide=css&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronsteers&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true" />
+
