@@ -6,19 +6,7 @@ Thanks for visiting my profile. ♥
 
 ## 💻 What I've been working on...
 
-- [Slalom Infrastructure Catalog](http://infra.dataops.tk) - An open source library of reusable Infrastructure-as-Code capabilities which is purpose-built to help our clients deliver the highest quality solutions at record speed.
-- [DataOps and Data Engineering Training](https://docs.dataops.tk/labs) - Welcoming new and experienced data professionals alike into the exciting world of big data, DevOps, and cloud data engineering.
-- [DBT - Data Build Tool](www.getdbt.com) - Building out a new data platform on DBT, including all the DataOps buzzwords: IAC, CI/CD, open source, declarative, and fully orchestrated.
-- [Tapdance](https://github.com/aaronsteers/tapdance) - My own open source wrapper and IAC orchestration platform for [Singer.io](https://singer.io) Extract-Load pipelines.
-- [Meltano](https://meltano.com) - A user-friendly wrapper and orchestrator for [Singer.io](https://singer.io) Extract-Load pipelines.
-- [Terraform](https://terraform.io) - Proposed and implemented a [an improved Terraform handling model](https://github.com/hashicorp/terraform/issues/24269) for Terraform. _(Votes / thumbs-ups on the PR much appreciated!)_
-
-## ⚡ Join me!
-
-I can use help with...
-
-- Expanding and ruggedizing the [Slalom Infrastructure Catalog](http://infra.dataops.tk) in Terraform.
-- Looking for more votes on my PR to add the [raise() error handling function](https://github.com/hashicorp/terraform/issues/24269) to the Terraform platform.
+- [Building Meltano](www.meltano.com)!
 
 ## 😄 Prounouns
 
@@ -26,7 +14,7 @@ I can use help with...
 
 ## 📫 How to Reach Me
 
-You can try carrier pidgeon 🕊 or email: `aj- dot - steers@slalom.com`
+You can try carrier pidgeon 🕊 or email: `aj@meltano - dot - com`
 
 ## 👨‍💻 PRs I've Worked On Recently
 
