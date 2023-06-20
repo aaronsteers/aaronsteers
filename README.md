@@ -4,9 +4,9 @@ I'm Aaron J. Steers, aka "AJ Steers"
 
 Thanks for visiting my profile. ♥
 
-## 💻 What I've been working on...
+## 💻 What I'm working on...
 
-- [Building Meltano](www.meltano.com)!
+- Building open source ELT at [Airbyte](www.airbyte.com)!
 
 ## 😄 Prounouns
 
@@ -14,7 +14,7 @@ Thanks for visiting my profile. ♥
 
 ## 📫 How to Reach Me
 
-You can try carrier pidgeon 🕊 or email: `aj@meltano - dot - com`
+You can try carrier pidgeon 🕊, Airbyte Slack, or dbt Slack.
 
 ## 👨‍💻 PRs I've Worked On Recently
 
